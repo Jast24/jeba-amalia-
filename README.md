@@ -2,11 +2,11 @@
 Git Collaboration Task
 This repository is created for practicing Git and GitHub collaboration.
 
-## About Me
+# About Me
 
 Name: Jeba Amalia
 Course: MSc Data Science
 
-## Purpose
+# Purpose
 
 This repository is created as part of my Git collaboration assignment.
